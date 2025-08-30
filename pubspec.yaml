@@ -40,6 +40,10 @@ dependencies:
   logger: 1.3.0 #日志
   crypto: 3.0.2 #加密
 
+  # 状态管理
+  provider: 6.0.5
+  flutter_riverpod: ^2.6.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
