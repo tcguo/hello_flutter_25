@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hello_flutter_25/core/router/app_routers.dart';
+import 'package:hello_flutter_25/router/app_routers.dart';
 import 'package:hello_flutter_25/pages/root_page.dart';
 
 void main() {

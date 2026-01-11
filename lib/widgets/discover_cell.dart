@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+/*基础组件*/
 class DiscoverCell extends StatefulWidget {
   final String title;
   final String subTitle;
